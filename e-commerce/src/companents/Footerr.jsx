@@ -15,7 +15,7 @@ function Footerr() {
           </Link>
         </div>
 
-        <h3 className="footer-develop">developer's by CyberTempest</h3>
+        <h3 className="footer-develop">developer's by samet</h3>
       </footer>
     </div>
   );
